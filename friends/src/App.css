@@ -1,0 +1,23 @@
+.App {
+  text-align: left;
+}
+.App h1 {
+  text-align: center;
+}
+ul {
+  display: flex;
+  justify-content: flex-end;
+  margin: 0 0 36px;
+  padding: 12px;
+}
+
+li {
+  list-style: none;
+  margin-right: 6px;
+  color: #204963;
+}
+a {
+  text-decoration: none;
+  padding: 6px;
+  color: #204963;
+}
